@@ -14,7 +14,7 @@ const demoGalaxyData = {
     ],
     icons: ["♥", "💖", "❤️", "❤️", "💕", "💕"],
     colors: '#ff6b9d',
-    images: ["/img/img1.jpg","/img/img2.jpg","/img/img3.jpg"],
+    images: ["img/img1.jpg","img/img2.jpg","img/img3.jpg"],
     song: "eyenoselip.mp3",
     isHeart: true,
     textHeart: "Trường",
