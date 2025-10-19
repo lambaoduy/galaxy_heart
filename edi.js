@@ -39,7 +39,7 @@ let galaxyAnimationId, heartAnimationStarted = false;
 // --- Responsive ---
 const isMobile = window.innerWidth <= 768;
 const isSmallMobile = window.innerWidth <= 480;
-const maxParticles = isSmallMobile ? 150 : isMobile ? 200 : 300;
+const maxParticles = isSmallMobile ? 100 : isMobile ? 200 : 300;
 const particleInterval = isMobile ? 100 : 120;
 const starCount = isSmallMobile ? 250 : isMobile ? 350 : 500;
 let particleSpeedMultiplier = 1.3;
