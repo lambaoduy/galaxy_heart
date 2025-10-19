@@ -5,16 +5,16 @@ const isDemo = urlParams.get('demo') === '1';
 
 // --- Demo Data ---
 const demoGalaxyData = {
-    messages: [
-       "Chúc anh bình an với mọi thứ, cả trong lòng và ngoài đời",
-"Mong tuổi mới của anh có nhiều ngày nhẹ lòng, và nhiều buổi chiều yên",
-"Sinh nhật này nếu anh chưa biết ước gì thì ước em cũng được nha",
-"Chúc anh thêm tuổi, thêm nhớ em",
-"Mong anh gặp nhiều điều dễ chịu hơn năm cũ – cả ngoài kia, và trong lòng mình."
-    ],
+messages: [
+  "Chúc em luôn xinh đẹp, rạng rỡ và hạnh phúc mỗi ngày!",
+  "Chúc em có một ngày 20/10 thật vui vẻ và tràn ngập yêu thương!",
+  "Chúc em luôn tươi như hoa, ngọt ngào như nắng sớm!",
+  "Chúc em ngày càng thành công, xinh đẹp và tự tin hơn!",
+  "20/10 vui vẻ nhé! Mong mọi điều tốt đẹp nhất sẽ đến với em!"
+],
     icons: ["♥", "💖", "❤️", "❤️", "💕", "💕"],
     colors: '#ff6b9d',
-    images: ["img/img1.jpg","img/img2.jpg","img/img3.jpg"],
+    images: ["img/img1.jpg","img/img2.jpg","img/img3.jpg","img/img4.jpg","img/img5.jpg"],
     song: "eyenoselip.mp3",
     isHeart: true,
     textHeart: "Trường",
