@@ -6,12 +6,13 @@ const isDemo = urlParams.get('demo') === '1';
 // --- Demo Data ---
 const demoGalaxyData = {
 messages: [
-  "Chúc em luôn xinh đẹp, rạng rỡ và hạnh phúc mỗi ngày!",
-  "Chúc em có một ngày 20/10 thật vui vẻ và tràn ngập yêu thương!",
-  "Chúc em luôn tươi như hoa, ngọt ngào như nắng sớm!",
-  "Chúc em ngày càng thành công, xinh đẹp và tự tin hơn!",
-  "20/10 vui vẻ nhé! Mong mọi điều tốt đẹp nhất sẽ đến với em!"
+  "Chúc em 20/10 thật vui nhé!",
+  "Chúc em luôn xinh đẹp và hạnh phúc!",
+  "20/10 rực rỡ như nụ cười em!",
+  "Chúc em ngày mới đầy năng lượng!",
+  "Mong em luôn cười thật tươi hôm nay!"
 ],
+
     icons: ["♥", "💖", "❤️", "❤️", "💕", "💕"],
     colors: '#ff6b9d',
     images: ["img/img1.jpg","img/img2.jpg","img/img3.jpg"],
