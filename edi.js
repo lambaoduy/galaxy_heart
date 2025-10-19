@@ -17,7 +17,7 @@ messages: [
     images: ["img/img1.jpg","img/img2.jpg","img/img3.jpg","img/img4.jpg","img/img5.jpg"],
     song: "eyenoselip.mp3",
     isHeart: true,
-    textHeart: "Trường",
+    textHeart: "Bí",
     isSave: true,
     createdAt: "2025-05-30T00:00:00.000Z"
 };
