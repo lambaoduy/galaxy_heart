@@ -14,7 +14,7 @@ messages: [
 ],
     icons: ["♥", "💖", "❤️", "❤️", "💕", "💕"],
     colors: '#ff6b9d',
-    images: ["img/img1.jpg","img/img2.jpg","img/img3.jpg","img/img4.jpg","img/img5.jpg"],
+    images: ["img/img1.jpg","img/img2.jpg","img/img3.jpg"],
     song: "eyenoselip.mp3",
     isHeart: true,
     textHeart: "Bí",
