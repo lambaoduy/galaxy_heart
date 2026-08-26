@@ -6,16 +6,16 @@ const isDemo = urlParams.get('demo') === '1';
 // --- Demo Data ---
 const demoGalaxyData = {
 messages: [
-  "Chúc em 20/10 thật vui nhé!",
-  "Chúc em luôn xinh đẹp và hạnh phúc!",
-  "20/10 rực rỡ như nụ cười em!",
-  "Chúc em ngày mới đầy năng lượng!",
-  "Mong em luôn cười thật tươi hôm nay!"
+  "Chúc mừng sinh nhật Nhựt Hào, tuổi mới thật nhiều niềm vui 🎂",
+  "Sinh nhật vui vẻ nha iu, luôn hạnh phúc và may mắn nhé 💖",
+  "Chúc cục cưn tuổi mới ăn ngon, ngủ ngon, luôn vui vẻ 🥳",
+  "Chúc bé ngày càng trưởng thành và gặp nhiều điều tốt ✨",
+  "Sinh nhật thật vui nha iu, mọi điều đều như ý 🎁"
 ],
 
     icons: ["♥", "💖", "❤️", "❤️", "💕", "💕"],
     colors: '#ff6b9d',
-    images: ["img/img1.jpg","img/img2.jpg","img/img3.jpg"],
+    images: ["img/img1.jpg","img/img2.jpg","img/img3.jpg","img/img4.jpg","img/img5.jpg"],
     song: "eyenoselip.mp3",
     isHeart: true,
     textHeart: "Bí",
